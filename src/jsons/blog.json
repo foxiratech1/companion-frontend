@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "name": "Brandie",
+    "location": "New York",
+    "age": 23,
+    "rating": 4.5,
+    "imageUrl": "/src/assets/images/esportimg.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "isFeatured": true,
+    "liked": false,
+    "newbadge": true
+  },
+  {
+    "id": 2,
+    "name": "Julie",
+
+    "location": "Los Angeles",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/card1.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "liked": true,
+    "newbadge": false
+  },
+  {
+    "id": 3,
+    "name": "Priscilla",
+    "location": "Los Angeles",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/Link.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "isFeatured": true,
+
+    "liked": true,
+    "newbadge": true
+  },
+  {
+    "id": 4,
+    "name": "Esther",
+    "location": "Los Angeles",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/cardimg3.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "liked": false,
+    "newbadge": false
+  },
+  {
+    "id": 5,
+    "name": "Arlene",
+    "location": "Los Angeles",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/cardimg4.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "isFeatured": true,
+    "liked": true,
+    "newbadge": false
+  },
+  {
+    "id": 6,
+    "name": "Bessie",
+    "location": "Los Angeles",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/cardimg5.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "liked": true,
+    "newbadge": false
+  },
+  {
+    "id": 7,
+    "name": "Irma",
+    "location": "Los Angeles",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/card1.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "isFeatured": true,
+    "liked": true,
+    "newbadge": false
+  },
+  {
+    "id": 8,
+    "name": "Alice",
+    "location": "Kristin",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/esportimg.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "isFeatured": true,
+    "liked": true,
+    "newbadge": false
+  },
+  {
+    "id": 9,
+    "name": "Alice",
+    "location": "Gladys",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/cardimg4.png",
+    "verificationIcon": "/src/assets/images/verification.png",
+    "liked": true,
+    "newbadge": false
+  },
+  {
+    "id": 10,
+    "name": "Alice",
+    "location": "Los Angeles",
+    "age": 23,
+    "rating": 4.7,
+    "imageUrl": "/src/assets/images/cardimg5.png",
+    "isFeatured": true,
+    "verificationIcon": "/src/assets/images/verification.png",
+    "liked": true,
+    "newbadge": false
+  }
+]

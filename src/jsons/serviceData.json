@@ -1,0 +1,213 @@
+{
+  "servicedata": [
+    {
+      "id": 1,
+      "name": "Keywords",
+      "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Availability",
+     "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Breast Size",
+    "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Service Type",
+      "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Age",
+     "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Height",
+      "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Caters to",
+     "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ethnicity",
+     "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Hair Colour",
+    "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Body Type",
+    "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Eye Colour",
+     "service": [
+        { "id": 11, "serviceone": "Service1" },
+        {
+          "id": 12,
+          "serviceone": "Service2"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service3"
+        },
+        {
+          "id": 13,
+          "serviceone": "Service4"
+        }
+      ]
+    }
+  ]
+}

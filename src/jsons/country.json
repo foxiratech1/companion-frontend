@@ -1,0 +1,368 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States"
+    },
+    {
+      "id": 2,
+      "name": "Canada"
+    },
+    {
+      "id": 3,
+      "name": "United Kingdom"
+    },
+    {
+      "id": 4,
+      "name": "Australia",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Sydney",
+          "sublocations": [
+            { "id": 11, "name": "Bondi" },
+            { "id": 12, "name": "Manly" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Melbourne",
+          "sublocations": [
+            { "id": 21, "name": "Richmond" },
+            { "id": 22, "name": "Docklands" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Germany"
+    },
+    {
+      "id": 6,
+      "name": "India"
+    },
+    {
+      "id": 7,
+      "name": "Japan",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Tokyo",
+          "sublocations": [
+            { "id": 11, "name": "Shibuya" },
+            { "id": 12, "name": "Shinjuku" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Osaka",
+          "sublocations": [
+            { "id": 21, "name": "Umeda" },
+            { "id": 22, "name": "Namba" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "France"
+    },
+    {
+      "id": 9,
+      "name": "Brazil",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Rio de Janeiro",
+          "sublocations": [
+            { "id": 11, "name": "Copacabana" },
+            { "id": 12, "name": "Ipanema" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "São Paulo",
+          "sublocations": [
+            { "id": 21, "name": "Pinheiros" },
+            { "id": 22, "name": "Vila Madalena" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "China"
+    },
+    {
+      "id": 11,
+      "name": "Italy",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Rome",
+          "sublocations": [
+            { "id": 11, "name": "Trastevere" },
+            { "id": 12, "name": "Vatican City" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Milan",
+          "sublocations": [
+            { "id": 21, "name": "Brera" },
+            { "id": 22, "name": "Navigli" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mexico"
+    },
+    {
+      "id": 13,
+      "name": "Russia"
+    },
+    {
+      "id": 14,
+      "name": "South Africa",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Cape Town",
+          "sublocations": [
+            { "id": 11, "name": "Waterfront" },
+            { "id": 12, "name": "Camps Bay" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Johannesburg",
+          "sublocations": [
+            { "id": 21, "name": "Sandton" },
+            { "id": 22, "name": "Soweto" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Spain",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Barcelona",
+          "sublocations": [
+            { "id": 11, "name": "Gothic Quarter" },
+            { "id": 12, "name": "Eixample" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Madrid",
+          "sublocations": [
+            { "id": 21, "name": "Sol" },
+            { "id": 22, "name": "Chueca" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Spain"
+    },
+    {
+      "id": 17,
+      "name": "Iowa",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Barcelona",
+          "sublocations": [
+            { "id": 11, "name": "Gothic Quarter" },
+            { "id": 12, "name": "Eixample" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Kansas",
+          "sublocations": [
+            { "id": 21, "name": "Sol" },
+            { "id": 22, "name": "Chueca" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Kentucky"
+    },
+    {
+      "id": 19,
+      "name": "Louisiana"
+    },
+    {
+      "id": 20,
+      "name": "Missouri ",
+      "sublocations": [
+        { "id": 21, "name": "Sol" },
+        { "id": 22, "name": "Chueca" }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Montana"
+    },
+    {
+      "id": 22,
+      "name": "Nebraska",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Barcelona",
+          "sublocations": [
+            { "id": 11, "name": "Gothic Quarter" },
+            { "id": 12, "name": "Eixample" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Madrid",
+          "sublocations": [
+            { "id": 21, "name": "Sol" },
+            { "id": 22, "name": "Chueca" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Nevada ",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Barcelona",
+          "sublocations": [
+            { "id": 11, "name": "Gothic Quarter" },
+            { "id": 12, "name": "Eixample" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Madrid",
+          "sublocations": [
+            { "id": 21, "name": "Sol" },
+            { "id": 22, "name": "Chueca" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "New Hampshire",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Barcelona",
+          "sublocations": [
+            { "id": 11, "name": "Gothic Quarter" },
+            { "id": 12, "name": "Eixample" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Madrid",
+          "sublocations": [
+            { "id": 21, "name": "Sol" },
+            { "id": 22, "name": "Chueca" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "New Jersey",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Barcelona",
+          "sublocations": [
+            { "id": 11, "name": "Gothic Quarter" },
+            { "id": 12, "name": "Eixample" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Madrid",
+          "sublocations": [
+            { "id": 21, "name": "Sol" },
+            { "id": 22, "name": "Chueca" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Oregon",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Barcelona",
+          "sublocations": [
+            { "id": 11, "name": "Gothic Quarter" },
+            { "id": 12, "name": "Eixample" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Madrid",
+          "sublocations": [
+            { "id": 21, "name": "Sol" },
+            { "id": 22, "name": "Chueca" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Pennsylvania "
+    },
+    {
+      "id": 28,
+      "name": "Puerto Rico"
+    },
+    {
+      "id": 29,
+      "name": "Rhode Island"
+    },
+    {
+      "id": 30,
+      "name": "South Carolina"
+    },
+    {
+      "id": 31,
+      "name": "South Dakota"
+    },
+    {
+      "id": 32,
+      "name": "Tennessee ",
+      "sublocations": [
+        { "id": 21, "name": "Sol" },
+        { "id": 22, "name": "Chueca" }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Texas ",
+      "sublocations": [
+        { "id": 21, "name": "Sol" },
+        { "id": 22, "name": "Chueca" }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Utah"
+    }
+  ]
+}

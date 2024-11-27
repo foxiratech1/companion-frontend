@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "name": "Brandie",
+      "age": 21,
+      "location": "New York",
+      "rating": 4.5,
+      "imageUrl": "/src/assets/images/boyimg1.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "isFeatured": true,
+      "liked": false,
+      "newbadge": true
+    },
+    {
+      "id": 2,
+      "name": "Julie",
+      "age": 25,
+      "location": "Los Angeles",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg2.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "liked": true,
+      "newbadge": false
+    },
+    {
+      "id": 3,
+      "name": "Priscilla",
+      "age": 25,
+      "location": "Los Angeles",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg3.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "isFeatured": true,
+      "liked": true,
+      "newbadge": true
+    },
+    {
+      "id": 4,
+      "name": "Esther",
+      "age": 25,
+      "location": "Los Angeles",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg4.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "liked": false,
+      "newbadge": false
+    },
+    {
+      "id": 5,
+      "name": "Arlene",
+      "age": 25,
+      "location": "Los Angeles",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg5.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "isFeatured": true,
+      "liked": true,
+      "newbadge": false
+    },
+    {
+      "id": 6,
+      "name": "Bessie",
+      "age": 25,
+      "location": "Los Angeles",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg6.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "liked": true,
+      "newbadge": false
+    },
+    {
+      "id": 7,
+      "name": "Irma",
+      "age": 25,
+      "location": "Los Angeles",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg7.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "isFeatured": true,
+      "liked": true,
+      "newbadge": false
+    },
+    {
+      "id": 8,
+      "name": "Alice",
+      "age": 25,
+      "location": "Kristin",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg1.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "isFeatured": true,
+      "liked": true,
+      "newbadge": false
+    },
+    {
+      "id": 9,
+      "name": "Alice",
+      "age": 25,
+      "location": "Gladys",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg2.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "liked": true,
+      "newbadge": false
+    },
+    {
+      "id": 10,
+      "name": "Alice",
+      "age": 25,
+      "location": "Los Angeles",
+      "rating": 4.7,
+      "imageUrl": "/src/assets/images/boyimg3.png",
+      "verificationIcon": "/src/assets/images/verification.png",
+      "isFeatured": true,
+      "liked": true,
+      "newbadge": false
+    }
+  ]
+  
+
+
